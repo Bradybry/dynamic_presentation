@@ -29,29 +29,50 @@ export const MessageLengthSlide = ({ data }: MessageLengthSlideProps) => {
       Icon={MessageCircle}
     >
       <div className="space-y-4">
-        <ResponsiveContainer width="100%" height={300}>
-          <BarChart data={chartData}>
-            <CartesianGrid strokeDasharray="3 3" />
-            <XAxis dataKey="name" />
-            <YAxis yAxisId="left" orientation="left" stroke={THEME.colors.madison} />
-            <YAxis yAxisId="right" orientation="right" stroke={THEME.colors.bryce} />
-            <Tooltip />
-            <Legend />
-            <Bar 
-              yAxisId="left" 
-              dataKey="words" 
-              name="Words per Message" 
-              fill={THEME.colors.madison} 
-            />
-            <Bar 
-              yAxisId="right" 
-              dataKey="characters" 
-              name="Characters per Message" 
-              fill={THEME.colors.bryce} 
-            />
-          </BarChart>
-        </ResponsiveContainer>
-        <p className="text-center italic">
+        <div className="h-64 sm:h-[300px]">
+          <ResponsiveContainer width="100%" height="100%">
+            <BarChart data={chartData} margin={{ top: 10, right: 10, left: 0, bottom: 5 }}>
+              <CartesianGrid strokeDasharray="3 3" />
+              <XAxis 
+                dataKey="name" 
+                tick={{ fontSize: 12 }}
+              />
+              <YAxis 
+                yAxisId="left" 
+                orientation="left" 
+                stroke={THEME.colors.madison}
+                tick={{ fontSize: 12 }}
+                width={30}
+              />
+              <YAxis 
+                yAxisId="right" 
+                orientation="right" 
+                stroke={THEME.colors.bryce}
+                tick={{ fontSize: 12 }}
+                width={30}
+              />
+              <Tooltip 
+                contentStyle={{ fontSize: '12px' }}
+              />
+              <Legend 
+                wrapperStyle={{ fontSize: '12px' }}
+              />
+              <Bar 
+                yAxisId="left" 
+                dataKey="words" 
+                name="Words per Message" 
+                fill={THEME.colors.madison} 
+              />
+              <Bar 
+                yAxisId="right" 
+                dataKey="characters" 
+                name="Chars per Message" 
+                fill={THEME.colors.bryce} 
+              />
+            </BarChart>
+          </ResponsiveContainer>
+        </div>
+        <p className="text-center text-sm sm:text-base italic">
           I write longer messages but she sends more
           <br />
           Quality over Quantity?
