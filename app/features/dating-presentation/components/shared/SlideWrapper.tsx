@@ -11,20 +11,20 @@ interface SlideWrapperProps {
 
 export const SlideWrapper = ({ title, subtitle, Icon, children }: SlideWrapperProps) => {
   return (
-    <Card className="bg-white shadow-lg">
-      <CardHeader className="text-center pb-2">
-        <div className="flex justify-center mb-4">
-          <Icon className="w-12 h-12" style={{ color: THEME.colors.madison }} />
+    <Card className="bg-white shadow-lg h-full">
+      <CardHeader className="text-center pb-2 px-2 sm:px-6">
+        <div className="flex justify-center mb-2 sm:mb-4">
+          <Icon className="w-8 h-8 sm:w-12 sm:h-12" style={{ color: THEME.colors.madison }} />
         </div>
-        <CardTitle className="text-2xl font-bold text-gray-800">
+        <CardTitle className="text-xl sm:text-2xl font-bold text-gray-800">
           {title}
         </CardTitle>
-        <p className="text-gray-600 italic">
+        <p className="text-sm sm:text-base text-gray-600 italic">
           {subtitle}
         </p>
       </CardHeader>
       <CardContent>
-        <div className="min-h-96 p-6">
+        <div className="min-h-[24rem] p-2 sm:p-6 overflow-x-hidden">
           {children}
         </div>
       </CardContent>
