@@ -22,7 +22,7 @@ export const IntroSlide = ({ data }: IntroSlideProps) => {
             over {data.totalDays} days
           </p>
           <p className="text-sm italic">
-            (I'm not obsessed, I just really like data...)
+            (I'm not obsessed, I just really like data... and Madison)
           </p>
         </div>
       </div>
