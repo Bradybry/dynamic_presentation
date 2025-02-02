@@ -1,20 +1,20 @@
 {
-  "totalMessages": 6411,
-  "totalDays": 49,
+  "totalMessages": 6447,
+  "totalDays": 50,
   "partnerName": "Madison",
   "userName": "Bryce",
   "messageStats": {
-    "partnerMessages": 3742,
-    "userMessages": 2669,
-    "partnerPercentage": 58.4,
-    "userPercentage": 41.6
+    "partnerMessages": 3761,
+    "userMessages": 2686,
+    "partnerPercentage": 58.3,
+    "userPercentage": 41.7
   },
   "conversationStats": {
-    "partnerInitiated": 67.3,
-    "userInitiated": 32.7
+    "partnerInitiated": 66.7,
+    "userInitiated": 33.3
   },
   "wordStats": {
-    "totalWords": 93080,
+    "totalWords": 93370,
     "comparisonBook": {
       "name": "Animal Farm",
       "wordCount": 29060
@@ -22,39 +22,39 @@
   },
   "messageLengthStats": {
     "partner": {
-      "wordsPerMessage": 12.81,
-      "charactersPerMessage": 63.27
+      "wordsPerMessage": 12.78,
+      "charactersPerMessage": 63.15
     },
     "user": {
-      "wordsPerMessage": 16.92,
-      "charactersPerMessage": 90.41
+      "wordsPerMessage": 16.87,
+      "charactersPerMessage": 90.11
     }
   },
   "responseTimeData": [
     {
       "time": "0-1m",
-      "Madison": 1123,
-      "Bryce": 707
+      "Madison": 1133,
+      "Bryce": 714
     },
     {
       "time": "1-2m",
-      "Madison": 260,
-      "Bryce": 440
+      "Madison": 261,
+      "Bryce": 441
     },
     {
       "time": "2-5m",
-      "Madison": 270,
-      "Bryce": 510
+      "Madison": 273,
+      "Bryce": 513
     },
     {
       "time": "5-15m",
-      "Madison": 214,
+      "Madison": 215,
       "Bryce": 259
     },
     {
       "time": "15-30m",
       "Madison": 91,
-      "Bryce": 54
+      "Bryce": 56
     },
     {
       "time": "30m+",
@@ -73,7 +73,7 @@
       "exclamationPercentage": 0.16,
       "mostUsedEmoji": "😅",
       "mostUsedEmojiCount": 315,
-      "totalEmojiCount": 462,
+      "totalEmojiCount": 463,
       "topEmojis": [
         {
           "emoji": "😅",
