@@ -1,10 +1,10 @@
 {
-  "totalMessages": 34396,
+  "totalMessages": 34395,
   "totalDays": 187,
   "partnerName": "Madison",
   "userName": "Bryce",
   "messageStats": {
-    "partnerMessages": 20490,
+    "partnerMessages": 20489,
     "userMessages": 13906,
     "partnerPercentage": 59.6,
     "userPercentage": 40.4
@@ -14,7 +14,7 @@
     "userInitiated": 38.4
   },
   "wordStats": {
-    "totalWords": 360555,
+    "totalWords": 360528,
     "comparisonBook": {
       "name": "Animal Farm",
       "wordCount": 29060
@@ -23,7 +23,7 @@
   "messageLengthStats": {
     "partner": {
       "wordsPerMessage": 9.05,
-      "charactersPerMessage": 44.51
+      "charactersPerMessage": 44.5
     },
     "user": {
       "wordsPerMessage": 12.6,
@@ -33,23 +33,23 @@
   "responseTimeData": [
     {
       "time": "0-1m",
-      "Madison": 6381,
-      "Bryce": 4820
+      "Madison": 6385,
+      "Bryce": 4823
     },
     {
       "time": "1-2m",
-      "Madison": 982,
+      "Madison": 979,
       "Bryce": 1898
     },
     {
       "time": "2-5m",
       "Madison": 1054,
-      "Bryce": 1738
+      "Bryce": 1737
     },
     {
       "time": "5-15m",
       "Madison": 852,
-      "Bryce": 906
+      "Bryce": 905
     },
     {
       "time": "15-30m",
