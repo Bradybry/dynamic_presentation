@@ -1,20 +1,20 @@
 {
-  "totalMessages": 43426,
+  "totalMessages": 43529,
   "totalDays": 230,
   "partnerName": "Madison",
   "userName": "Bryce",
   "messageStats": {
-    "partnerMessages": 25755,
-    "userMessages": 17671,
+    "partnerMessages": 25815,
+    "userMessages": 17714,
     "partnerPercentage": 59.3,
     "userPercentage": 40.7
   },
   "conversationStats": {
-    "partnerInitiated": 61.2,
-    "userInitiated": 38.8
+    "partnerInitiated": 61.1,
+    "userInitiated": 38.9
   },
   "wordStats": {
-    "totalWords": 435485,
+    "totalWords": 436368,
     "comparisonBook": {
       "name": "Animal Farm",
       "wordCount": 29060
@@ -22,34 +22,34 @@
   },
   "messageLengthStats": {
     "partner": {
-      "wordsPerMessage": 8.81,
-      "charactersPerMessage": 43.37
+      "wordsPerMessage": 8.8,
+      "charactersPerMessage": 43.35
     },
     "user": {
-      "wordsPerMessage": 11.81,
-      "charactersPerMessage": 62.25
+      "wordsPerMessage": 11.8,
+      "charactersPerMessage": 62.23
     }
   },
   "responseTimeData": [
     {
       "time": "0-1m",
-      "Madison": 8108,
-      "Bryce": 6366
+      "Madison": 8131,
+      "Bryce": 6387
     },
     {
       "time": "1-2m",
-      "Madison": 1198,
-      "Bryce": 2254
+      "Madison": 1202,
+      "Bryce": 2258
     },
     {
       "time": "2-5m",
-      "Madison": 1289,
-      "Bryce": 2062
+      "Madison": 1298,
+      "Bryce": 2071
     },
     {
       "time": "5-15m",
-      "Madison": 1039,
-      "Bryce": 1075
+      "Madison": 1041,
+      "Bryce": 1076
     },
     {
       "time": "15-30m",
@@ -59,7 +59,7 @@
     {
       "time": "30m+",
       "Madison": 380,
-      "Bryce": 344
+      "Bryce": 345
     }
   ],
   "responseTimeStats": {
@@ -73,7 +73,7 @@
       "exclamationPercentage": 0.07,
       "mostUsedEmoji": "😅",
       "mostUsedEmojiCount": 563,
-      "totalEmojiCount": 1833,
+      "totalEmojiCount": 1834,
       "topEmojis": [
         {
           "emoji": "😅",
@@ -103,7 +103,7 @@
       "exclamationPercentage": 0.11,
       "mostUsedEmoji": "😂",
       "mostUsedEmojiCount": 295,
-      "totalEmojiCount": 925,
+      "totalEmojiCount": 926,
       "topEmojis": [
         {
           "emoji": "😂",
