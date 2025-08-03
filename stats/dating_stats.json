@@ -1,11 +1,11 @@
 {
-  "totalMessages": 43529,
-  "totalDays": 230,
+  "totalMessages": 43632,
+  "totalDays": 232,
   "partnerName": "Madison",
   "userName": "Bryce",
   "messageStats": {
-    "partnerMessages": 25815,
-    "userMessages": 17714,
+    "partnerMessages": 25875,
+    "userMessages": 17757,
     "partnerPercentage": 59.3,
     "userPercentage": 40.7
   },
@@ -14,7 +14,7 @@
     "userInitiated": 38.9
   },
   "wordStats": {
-    "totalWords": 436368,
+    "totalWords": 437426,
     "comparisonBook": {
       "name": "Animal Farm",
       "wordCount": 29060
@@ -23,7 +23,7 @@
   "messageLengthStats": {
     "partner": {
       "wordsPerMessage": 8.8,
-      "charactersPerMessage": 43.35
+      "charactersPerMessage": 43.36
     },
     "user": {
       "wordsPerMessage": 11.8,
@@ -33,32 +33,32 @@
   "responseTimeData": [
     {
       "time": "0-1m",
-      "Madison": 8131,
-      "Bryce": 6387
+      "Madison": 8141,
+      "Bryce": 6399
     },
     {
       "time": "1-2m",
-      "Madison": 1202,
-      "Bryce": 2258
+      "Madison": 1208,
+      "Bryce": 2262
     },
     {
       "time": "2-5m",
-      "Madison": 1298,
-      "Bryce": 2071
+      "Madison": 1299,
+      "Bryce": 2074
     },
     {
       "time": "5-15m",
-      "Madison": 1041,
+      "Madison": 1043,
       "Bryce": 1076
     },
     {
       "time": "15-30m",
-      "Madison": 439,
-      "Bryce": 306
+      "Madison": 440,
+      "Bryce": 307
     },
     {
       "time": "30m+",
-      "Madison": 380,
+      "Madison": 381,
       "Bryce": 345
     }
   ],
@@ -73,7 +73,7 @@
       "exclamationPercentage": 0.07,
       "mostUsedEmoji": "😅",
       "mostUsedEmojiCount": 563,
-      "totalEmojiCount": 1834,
+      "totalEmojiCount": 1838,
       "topEmojis": [
         {
           "emoji": "😅",
@@ -81,11 +81,11 @@
         },
         {
           "emoji": "😂",
-          "count": 374
+          "count": 375
         },
         {
           "emoji": "❤",
-          "count": 195
+          "count": 196
         },
         {
           "emoji": "😘",
