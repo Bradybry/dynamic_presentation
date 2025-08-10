@@ -1,20 +1,20 @@
 {
-  "totalMessages": 45093,
-  "totalDays": 237,
+  "totalMessages": 45154,
+  "totalDays": 239,
   "partnerName": "Madison",
   "userName": "Bryce",
   "messageStats": {
-    "partnerMessages": 26756,
-    "userMessages": 18337,
+    "partnerMessages": 26791,
+    "userMessages": 18363,
     "partnerPercentage": 59.3,
     "userPercentage": 40.7
   },
   "conversationStats": {
-    "partnerInitiated": 61.0,
-    "userInitiated": 39.0
+    "partnerInitiated": 60.9,
+    "userInitiated": 39.1
   },
   "wordStats": {
-    "totalWords": 449544,
+    "totalWords": 449961,
     "comparisonBook": {
       "name": "Animal Farm",
       "wordCount": 29060
@@ -23,23 +23,23 @@
   "messageLengthStats": {
     "partner": {
       "wordsPerMessage": 8.77,
-      "charactersPerMessage": 43.22
+      "charactersPerMessage": 43.2
     },
     "user": {
-      "wordsPerMessage": 11.72,
-      "charactersPerMessage": 61.77
+      "wordsPerMessage": 11.71,
+      "charactersPerMessage": 61.75
     }
   },
   "responseTimeData": [
     {
       "time": "0-1m",
-      "Madison": 8426,
-      "Bryce": 6609
+      "Madison": 8434,
+      "Bryce": 6620
     },
     {
       "time": "1-2m",
-      "Madison": 1239,
-      "Bryce": 2341
+      "Madison": 1245,
+      "Bryce": 2344
     },
     {
       "time": "2-5m",
@@ -48,8 +48,8 @@
     },
     {
       "time": "5-15m",
-      "Madison": 1081,
-      "Bryce": 1119
+      "Madison": 1084,
+      "Bryce": 1121
     },
     {
       "time": "15-30m",
@@ -59,7 +59,7 @@
     {
       "time": "30m+",
       "Madison": 391,
-      "Bryce": 351
+      "Bryce": 352
     }
   ],
   "responseTimeStats": {
@@ -103,7 +103,7 @@
       "exclamationPercentage": 0.11,
       "mostUsedEmoji": "😂",
       "mostUsedEmojiCount": 299,
-      "totalEmojiCount": 937,
+      "totalEmojiCount": 938,
       "topEmojis": [
         {
           "emoji": "😂",
@@ -111,7 +111,7 @@
         },
         {
           "emoji": "❤",
-          "count": 240
+          "count": 241
         },
         {
           "emoji": "👍",
