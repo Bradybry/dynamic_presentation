@@ -1,20 +1,20 @@
 {
-  "totalMessages": 46775,
-  "totalDays": 246,
+  "totalMessages": 47029,
+  "totalDays": 247,
   "partnerName": "Madison",
   "userName": "Bryce",
   "messageStats": {
-    "partnerMessages": 27734,
-    "userMessages": 19041,
+    "partnerMessages": 27880,
+    "userMessages": 19149,
     "partnerPercentage": 59.3,
     "userPercentage": 40.7
   },
   "conversationStats": {
-    "partnerInitiated": 61.0,
-    "userInitiated": 39.0
+    "partnerInitiated": 61.2,
+    "userInitiated": 38.8
   },
   "wordStats": {
-    "totalWords": 462569,
+    "totalWords": 464329,
     "comparisonBook": {
       "name": "Animal Farm",
       "wordCount": 29060
@@ -22,49 +22,49 @@
   },
   "messageLengthStats": {
     "partner": {
-      "wordsPerMessage": 8.72,
-      "charactersPerMessage": 42.96
+      "wordsPerMessage": 8.71,
+      "charactersPerMessage": 42.91
     },
     "user": {
-      "wordsPerMessage": 11.59,
-      "charactersPerMessage": 61.09
+      "wordsPerMessage": 11.57,
+      "charactersPerMessage": 60.98
     }
   },
   "responseTimeData": [
     {
       "time": "0-1m",
-      "Madison": 8735,
-      "Bryce": 6865
+      "Madison": 8790,
+      "Bryce": 6908
     },
     {
       "time": "1-2m",
-      "Madison": 1284,
-      "Bryce": 2414
+      "Madison": 1287,
+      "Bryce": 2427
     },
     {
       "time": "2-5m",
-      "Madison": 1385,
-      "Bryce": 2213
+      "Madison": 1393,
+      "Bryce": 2217
     },
     {
       "time": "5-15m",
-      "Madison": 1122,
-      "Bryce": 1155
+      "Madison": 1129,
+      "Bryce": 1164
     },
     {
       "time": "15-30m",
-      "Madison": 468,
-      "Bryce": 333
+      "Madison": 471,
+      "Bryce": 337
     },
     {
       "time": "30m+",
-      "Madison": 398,
-      "Bryce": 359
+      "Madison": 397,
+      "Bryce": 361
     }
   ],
   "responseTimeStats": {
     "partnerMedianResponse": 0.5,
-    "userMedianResponse": 1.0
+    "userMedianResponse": 0.9
   },
   "messageContentStats": {
     "partner": {
@@ -72,16 +72,16 @@
       "questionPercentage": 0.04,
       "exclamationPercentage": 0.07,
       "mostUsedEmoji": "😅",
-      "mostUsedEmojiCount": 570,
-      "totalEmojiCount": 1894,
+      "mostUsedEmojiCount": 571,
+      "totalEmojiCount": 1896,
       "topEmojis": [
         {
           "emoji": "😅",
-          "count": 570
+          "count": 571
         },
         {
           "emoji": "😂",
-          "count": 393
+          "count": 394
         },
         {
           "emoji": "❤",
