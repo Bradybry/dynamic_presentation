@@ -1,11 +1,11 @@
 {
-  "totalMessages": 50326,
-  "totalDays": 268,
+  "totalMessages": 50678,
+  "totalDays": 269,
   "partnerName": "Madison",
   "userName": "Bryce",
   "messageStats": {
-    "partnerMessages": 29800,
-    "userMessages": 20526,
+    "partnerMessages": 30009,
+    "userMessages": 20669,
     "partnerPercentage": 59.2,
     "userPercentage": 40.8
   },
@@ -14,7 +14,7 @@
     "userInitiated": 39.2
   },
   "wordStats": {
-    "totalWords": 489764,
+    "totalWords": 492680,
     "comparisonBook": {
       "name": "Animal Farm",
       "wordCount": 29060
@@ -22,44 +22,44 @@
   },
   "messageLengthStats": {
     "partner": {
-      "wordsPerMessage": 8.64,
-      "charactersPerMessage": 42.53
+      "wordsPerMessage": 8.63,
+      "charactersPerMessage": 42.49
     },
     "user": {
-      "wordsPerMessage": 11.32,
-      "charactersPerMessage": 59.6
+      "wordsPerMessage": 11.31,
+      "charactersPerMessage": 59.52
     }
   },
   "responseTimeData": [
     {
       "time": "0-1m",
-      "Madison": 9384,
-      "Bryce": 7447
+      "Madison": 9446,
+      "Bryce": 7504
     },
     {
       "time": "1-2m",
-      "Madison": 1368,
-      "Bryce": 2541
+      "Madison": 1376,
+      "Bryce": 2543
     },
     {
       "time": "2-5m",
-      "Madison": 1490,
-      "Bryce": 2350
+      "Madison": 1496,
+      "Bryce": 2367
     },
     {
       "time": "5-15m",
-      "Madison": 1215,
-      "Bryce": 1230
+      "Madison": 1218,
+      "Bryce": 1237
     },
     {
       "time": "15-30m",
-      "Madison": 504,
-      "Bryce": 369
+      "Madison": 509,
+      "Bryce": 371
     },
     {
       "time": "30m+",
-      "Madison": 424,
-      "Bryce": 390
+      "Madison": 426,
+      "Bryce": 391
     }
   ],
   "responseTimeStats": {
@@ -72,28 +72,28 @@
       "questionPercentage": 0.04,
       "exclamationPercentage": 0.07,
       "mostUsedEmoji": "😅",
-      "mostUsedEmojiCount": 574,
-      "totalEmojiCount": 1968,
+      "mostUsedEmojiCount": 576,
+      "totalEmojiCount": 1983,
       "topEmojis": [
         {
           "emoji": "😅",
-          "count": 574
+          "count": 576
         },
         {
           "emoji": "😂",
-          "count": 412
+          "count": 418
         },
         {
           "emoji": "❤",
-          "count": 220
+          "count": 223
         },
         {
           "emoji": "😘",
-          "count": 204
+          "count": 205
         },
         {
           "emoji": "👀",
-          "count": 126
+          "count": 128
         }
       ]
     },
@@ -102,12 +102,12 @@
       "questionPercentage": 0.13,
       "exclamationPercentage": 0.11,
       "mostUsedEmoji": "😂",
-      "mostUsedEmojiCount": 317,
-      "totalEmojiCount": 984,
+      "mostUsedEmojiCount": 318,
+      "totalEmojiCount": 985,
       "topEmojis": [
         {
           "emoji": "😂",
-          "count": 317
+          "count": 318
         },
         {
           "emoji": "❤",
