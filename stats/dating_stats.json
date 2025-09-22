@@ -1,20 +1,20 @@
 {
-  "totalMessages": 53206,
-  "totalDays": 281,
+  "totalMessages": 53290,
+  "totalDays": 282,
   "partnerName": "Madison",
   "userName": "Bryce",
   "messageStats": {
-    "partnerMessages": 31516,
-    "userMessages": 21690,
+    "partnerMessages": 31566,
+    "userMessages": 21724,
     "partnerPercentage": 59.2,
     "userPercentage": 40.8
   },
   "conversationStats": {
-    "partnerInitiated": 60.4,
-    "userInitiated": 39.6
+    "partnerInitiated": 60.2,
+    "userInitiated": 39.8
   },
   "wordStats": {
-    "totalWords": 512699,
+    "totalWords": 513206,
     "comparisonBook": {
       "name": "Animal Farm",
       "wordCount": 29060
@@ -22,34 +22,34 @@
   },
   "messageLengthStats": {
     "partner": {
-      "wordsPerMessage": 8.56,
-      "charactersPerMessage": 42.14
+      "wordsPerMessage": 8.55,
+      "charactersPerMessage": 42.12
     },
     "user": {
-      "wordsPerMessage": 11.2,
-      "charactersPerMessage": 58.94
+      "wordsPerMessage": 11.19,
+      "charactersPerMessage": 58.89
     }
   },
   "responseTimeData": [
     {
       "time": "0-1m",
-      "Madison": 9901,
-      "Bryce": 7877
+      "Madison": 9917,
+      "Bryce": 7890
     },
     {
       "time": "1-2m",
-      "Madison": 1443,
-      "Bryce": 2644
+      "Madison": 1445,
+      "Bryce": 2649
     },
     {
       "time": "2-5m",
-      "Madison": 1569,
-      "Bryce": 2479
+      "Madison": 1573,
+      "Bryce": 2481
     },
     {
       "time": "5-15m",
-      "Madison": 1279,
-      "Bryce": 1292
+      "Madison": 1283,
+      "Bryce": 1295
     },
     {
       "time": "15-30m",
@@ -58,8 +58,8 @@
     },
     {
       "time": "30m+",
-      "Madison": 441,
-      "Bryce": 413
+      "Madison": 440,
+      "Bryce": 415
     }
   ],
   "responseTimeStats": {
@@ -73,7 +73,7 @@
       "exclamationPercentage": 0.07,
       "mostUsedEmoji": "😅",
       "mostUsedEmojiCount": 577,
-      "totalEmojiCount": 2032,
+      "totalEmojiCount": 2033,
       "topEmojis": [
         {
           "emoji": "😅",
