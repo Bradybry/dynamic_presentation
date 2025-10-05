@@ -1,20 +1,20 @@
 {
-  "totalMessages": 57164,
-  "totalDays": 293,
+  "totalMessages": 57187,
+  "totalDays": 295,
   "partnerName": "Madison",
   "userName": "Bryce",
   "messageStats": {
-    "partnerMessages": 33805,
-    "userMessages": 23359,
+    "partnerMessages": 33817,
+    "userMessages": 23370,
     "partnerPercentage": 59.1,
     "userPercentage": 40.9
   },
   "conversationStats": {
-    "partnerInitiated": 60.4,
-    "userInitiated": 39.6
+    "partnerInitiated": 60.3,
+    "userInitiated": 39.7
   },
   "wordStats": {
-    "totalWords": 544700,
+    "totalWords": 544794,
     "comparisonBook": {
       "name": "Animal Farm",
       "wordCount": 29060
@@ -23,42 +23,42 @@
   "messageLengthStats": {
     "partner": {
       "wordsPerMessage": 8.49,
-      "charactersPerMessage": 41.79
+      "charactersPerMessage": 41.78
     },
     "user": {
       "wordsPerMessage": 11.03,
-      "charactersPerMessage": 57.97
+      "charactersPerMessage": 57.95
     }
   },
   "responseTimeData": [
     {
       "time": "0-1m",
-      "Madison": 10688,
-      "Bryce": 8591
+      "Madison": 10696,
+      "Bryce": 8590
     },
     {
       "time": "1-2m",
-      "Madison": 1535,
-      "Bryce": 2806
+      "Madison": 1534,
+      "Bryce": 2810
     },
     {
       "time": "2-5m",
-      "Madison": 1669,
+      "Madison": 1667,
       "Bryce": 2610
     },
     {
       "time": "5-15m",
-      "Madison": 1371,
-      "Bryce": 1372
+      "Madison": 1370,
+      "Bryce": 1373
     },
     {
       "time": "15-30m",
       "Madison": 564,
-      "Bryce": 419
+      "Bryce": 420
     },
     {
       "time": "30m+",
-      "Madison": 463,
+      "Madison": 464,
       "Bryce": 425
     }
   ],
@@ -103,7 +103,7 @@
       "exclamationPercentage": 0.1,
       "mostUsedEmoji": "😂",
       "mostUsedEmojiCount": 343,
-      "totalEmojiCount": 1050,
+      "totalEmojiCount": 1051,
       "topEmojis": [
         {
           "emoji": "😂",
@@ -111,7 +111,7 @@
         },
         {
           "emoji": "❤",
-          "count": 264
+          "count": 265
         },
         {
           "emoji": "👍",
