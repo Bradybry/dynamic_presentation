@@ -33,32 +33,32 @@
   "responseTimeData": [
     {
       "time": "0-1m",
-      "Madison": 11472,
-      "Bryce": 9228
+      "Madison": 11470,
+      "Bryce": 9234
     },
     {
       "time": "1-2m",
-      "Madison": 1631,
-      "Bryce": 2983
+      "Madison": 1635,
+      "Bryce": 2984
     },
     {
       "time": "2-5m",
       "Madison": 1786,
-      "Bryce": 2768
+      "Bryce": 2767
     },
     {
       "time": "5-15m",
-      "Madison": 1451,
+      "Madison": 1452,
       "Bryce": 1472
     },
     {
       "time": "15-30m",
-      "Madison": 609,
+      "Madison": 610,
       "Bryce": 455
     },
     {
       "time": "30m+",
-      "Madison": 483,
+      "Madison": 485,
       "Bryce": 453
     }
   ],
