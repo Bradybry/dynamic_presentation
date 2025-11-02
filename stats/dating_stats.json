@@ -1,11 +1,11 @@
 {
-  "totalMessages": 63026,
-  "totalDays": 321,
+  "totalMessages": 63079,
+  "totalDays": 323,
   "partnerName": "Madison",
   "userName": "Bryce",
   "messageStats": {
-    "partnerMessages": 37209,
-    "userMessages": 25817,
+    "partnerMessages": 37239,
+    "userMessages": 25840,
     "partnerPercentage": 59.0,
     "userPercentage": 41.0
   },
@@ -14,7 +14,7 @@
     "userInitiated": 40.2
   },
   "wordStats": {
-    "totalWords": 589634,
+    "totalWords": 589993,
     "comparisonBook": {
       "name": "Animal Farm",
       "wordCount": 29060
@@ -22,34 +22,34 @@
   },
   "messageLengthStats": {
     "partner": {
-      "wordsPerMessage": 8.36,
-      "charactersPerMessage": 41.08
+      "wordsPerMessage": 8.35,
+      "charactersPerMessage": 41.07
     },
     "user": {
-      "wordsPerMessage": 10.8,
-      "charactersPerMessage": 56.67
+      "wordsPerMessage": 10.79,
+      "charactersPerMessage": 56.65
     }
   },
   "responseTimeData": [
     {
       "time": "0-1m",
-      "Madison": 11753,
-      "Bryce": 9522
+      "Madison": 11746,
+      "Bryce": 9513
     },
     {
       "time": "1-2m",
-      "Madison": 1684,
-      "Bryce": 3042
+      "Madison": 1688,
+      "Bryce": 3048
     },
     {
       "time": "2-5m",
-      "Madison": 1845,
-      "Bryce": 2817
+      "Madison": 1847,
+      "Bryce": 2820
     },
     {
       "time": "5-15m",
-      "Madison": 1495,
-      "Bryce": 1515
+      "Madison": 1496,
+      "Bryce": 1517
     },
     {
       "time": "15-30m",
@@ -58,8 +58,8 @@
     },
     {
       "time": "30m+",
-      "Madison": 493,
-      "Bryce": 462
+      "Madison": 495,
+      "Bryce": 461
     }
   ],
   "responseTimeStats": {
@@ -73,7 +73,7 @@
       "exclamationPercentage": 0.06,
       "mostUsedEmoji": "😅",
       "mostUsedEmojiCount": 587,
-      "totalEmojiCount": 2168,
+      "totalEmojiCount": 2169,
       "topEmojis": [
         {
           "emoji": "😅",
@@ -93,7 +93,7 @@
         },
         {
           "emoji": "👀",
-          "count": 146
+          "count": 147
         }
       ]
     },
