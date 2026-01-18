@@ -33,18 +33,18 @@
   "responseTimeData": [
     {
       "time": "0-1m",
-      "Madison": 12208,
-      "Bryce": 9927
+      "Madison": 12199,
+      "Bryce": 9922
     },
     {
       "time": "1-2m",
-      "Madison": 1753,
-      "Bryce": 3149
+      "Madison": 1754,
+      "Bryce": 3150
     },
     {
       "time": "2-5m",
-      "Madison": 1930,
-      "Bryce": 2936
+      "Madison": 1931,
+      "Bryce": 2934
     },
     {
       "time": "5-15m",
@@ -54,12 +54,12 @@
     {
       "time": "15-30m",
       "Madison": 653,
-      "Bryce": 493
+      "Bryce": 492
     },
     {
       "time": "30m+",
-      "Madison": 519,
-      "Bryce": 473
+      "Madison": 518,
+      "Bryce": 472
     }
   ],
   "responseTimeStats": {
